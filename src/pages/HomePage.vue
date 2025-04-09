@@ -200,7 +200,7 @@ const currentUrl = computed(() => window.location.href)
 
 .qrcode-container {
   position: fixed;
-  right: 20px;
+  left: 20px;
   bottom: 20px;
   z-index: 1000;
 }
