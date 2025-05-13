@@ -76,6 +76,11 @@ const originItems = [
     title: '用户管理',
   },
   {
+    key: '/admin/spaceManage',
+    label: '空间管理',
+    title: '空间管理',
+  },
+  {
     key: 'others',
     label: h('a', { href: 'https://space.bilibili.com/274960789?spm_id_from=333.1007.0.0', target: '_blank' }, 'vision'),
     title: 'vision',
